@@ -1,3 +1,0 @@
-git add .gitattributes
-git commit -m "*.dart linguist-language=Dart"
-git push origin master
