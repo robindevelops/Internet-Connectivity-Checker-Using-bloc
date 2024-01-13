@@ -1,7 +1,6 @@
 # internet_connectivity
 
-A new Flutter project.
-
+ I have created a simple connectivity App which check your internet connection By using bloc
 ## Getting Started
 
 This project is a starting point for a Flutter application.
